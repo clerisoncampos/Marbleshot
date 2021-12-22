@@ -5,6 +5,6 @@ Its like a spaceshooter plus memorygame </br>
 
 download: [Mableshot](https://drive.google.com/file/d/18yMzXXvdkWAF5KuOhDdMiJ-6bH2j7Mnk/view?usp=sharing) </br>
 </br>
-![alt text](http://clerison-com.umbler.net/index_files/post1.jpg) 
+![alt text](https://tecnogami.000webhostapp.com/index_files/post1.jpg) 
 
 
